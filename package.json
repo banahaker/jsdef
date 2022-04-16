@@ -1,0 +1,23 @@
+{
+  "name": "jsdef",
+  "version": "1.0.0",
+  "description": "define process in js",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/banahaker/jsdef.git"
+  },
+  "keywords": [
+    "define"
+  ],
+  "author": "lazp",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/banahaker/jsdef/issues"
+  },
+  "homepage": "https://github.com/banahaker/jsdef#readme"
+}
