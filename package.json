@@ -1,5 +1,5 @@
 {
-  "name": "jsdef",
+  "name": "jsdefn",
   "version": "1.0.0",
   "description": "define process in js",
   "main": "main.js",
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/banahaker/jsdef/issues"
   },
-  "homepage": "https://github.com/banahaker/jsdef#readme"
+  "homepage": "https://github.com/banahaker/jsdef#readme",
+  "dependencies": {
+    "jsdefn": "^1.0.0"
+  }
 }

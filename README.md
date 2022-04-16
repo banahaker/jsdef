@@ -1,9 +1,13 @@
 # JSDef
 A Define tool for js/ts
+# Install
+```bash
+npm i jsdefn
+```
 # HOW TO
 1. Create Defs
 ```js
-import { JSDef } from 'jsdef'
+import { JSDef } from 'jsdefn'
 const $ = JSDef({
     "A": "apple"
 })
