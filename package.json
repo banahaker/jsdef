@@ -1,6 +1,6 @@
 {
   "name": "jsdefn",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "define process in js",
   "main": "main.js",
   "type": "module",
